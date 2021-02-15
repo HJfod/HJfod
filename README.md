@@ -1,16 +1,39 @@
-### Hi there 👋
+<img src="https://pbs.twimg.com/profile_images/1342486825865277441/OX9Kh-2W_400x400.jpg" width="180"/>
 
-<!--
-**HJfod/HJfod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile!
 
-Here are some ideas to get you started:
+I am a 17-year-old hobby developer from Finland, mainly focused on developing add-ons and mods for [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My main projects
+
+## GDShare
+
+Tool for exporting GD levels as files!
+
+I'm working on a new client with an all-new UI and vastly more efficient and reliable backend.
+
+### Version 2 ETA: Early 2021
+
+The [original version](https://github.com/HJfod/gdshare) is not being updated at the moment and will be deprecated once the new client is finished.
+
+## BetterEdit
+
+A mod that enables collabing live in the GD editor with other people.
+
+### Not even barely in an usable state lol
+
+[Check it out!](https://github.com/HJfod/BetterEdit)
+
+## GDDLLLoader
+
+Geometry Dash mod loader based on Adaf's GDDLLLoader.
+
+[Check it out!](https://github.com/HJfod/GDDLLLoader)
+
+## Proton
+
+A (shitty) text editor with limited rich text functionality.
+
+Mainly used by me to write my video scripts, though I want to make a better version at some point.
+
+[Check it out!](https://github.com/HJfod/proton-texteditor)
