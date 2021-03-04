@@ -16,6 +16,14 @@ I'm working on a new client with an all-new UI and vastly more efficient and rel
 
 The [original version](https://github.com/HJfod/gdshare) is not being updated at the moment and will be deprecated once the new client is finished.
 
+## ModLdr
+
+Geometry Dash mod loader based on Adaf's GDDLLLoader.
+
+![](https://media.discordapp.net/attachments/651480005536383009/817022619781955586/unknown.png | width=200)
+
+[Check it out!](https://github.com/HJfod/ModLdr/tree/dev)
+
 ## BetterEdit
 
 A mod that enables collabing live in the GD editor with other people.
@@ -23,12 +31,6 @@ A mod that enables collabing live in the GD editor with other people.
 ### Not even barely in an usable state lol
 
 [Check it out!](https://github.com/HJfod/BetterEdit)
-
-## GDDLLLoader
-
-Geometry Dash mod loader based on Adaf's GDDLLLoader.
-
-[Check it out!](https://github.com/HJfod/GDDLLLoader)
 
 ## Proton
 
