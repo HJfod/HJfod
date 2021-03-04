@@ -20,7 +20,7 @@ The [original version](https://github.com/HJfod/gdshare) is not being updated at
 
 Geometry Dash mod loader based on Adaf's GDDLLLoader.
 
-<img src="https://media.discordapp.net/attachments/651480005536383009/817022619781955586/unknown.png" width="200">
+<img src="https://media.discordapp.net/attachments/651480005536383009/817022619781955586/unknown.png" width="600">
 
 [Check it out!](https://github.com/HJfod/ModLdr/tree/dev)
 
