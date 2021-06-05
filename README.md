@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_images/1342486825865277441/OX9Kh-2W_400x400.jpg" width="180"/>
+<img src="https://media.discordapp.net/attachments/660797754271989760/850821520972578846/logo-imp.jpg?width=701&height=701" width="100"/>
 
 ## Welcome to my profile!
 
@@ -8,13 +8,19 @@ I am a 17-year-old hobby developer from Finland, mainly focused on developing ad
 
 ## GDShare
 
-Tool for exporting GD levels as files!
+Mod for exporting GD levels as files!
 
-I'm working on a new client with an all-new UI and vastly more efficient and reliable backend.
+<img src="https://media.discordapp.net/attachments/822517360706453554/832705873041948743/unknown.png?width=1245&height=701" width="600">
 
-### Version 2 ETA: Early 2021
+**The [original version](https://github.com/HJfod/gdshare) has been deprecated and should no longer be used.**
 
-The [original version](https://github.com/HJfod/gdshare) is not being updated at the moment and will be deprecated once the new client is finished.
+## BetterEdit
+
+A mod that adds a ton of quality-of-life features to the GD editor, like typing in HSV, advanced scaling, template building, auto-saving etc.
+
+### Still very much WIP, although actively in development!
+
+[Check it out!](https://github.com/HJfod/BetterEdit)
 
 ## ModLdr
 
@@ -23,14 +29,6 @@ Geometry Dash mod loader based on Adaf's GDDLLLoader.
 <img src="https://media.discordapp.net/attachments/651480005536383009/817022619781955586/unknown.png" width="600">
 
 [Check it out!](https://github.com/HJfod/ModLdr/tree/dev)
-
-## BetterEdit
-
-A mod that enables collabing live in the GD editor with other people.
-
-### Not even barely in an usable state lol
-
-[Check it out!](https://github.com/HJfod/BetterEdit)
 
 ## Proton
 
