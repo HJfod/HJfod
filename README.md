@@ -4,6 +4,8 @@
 
 I am an 18-year-old hobby developer from Finland, mainly focused on developing add-ons and mods for [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
+[![HJfod's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjfod&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 # My main projects
 
 All of my projects are available for download on [my Modding Discord Server](https://discord.gg/K9Kuh3hzTC)!
@@ -25,5 +27,4 @@ A mod that adds a ton of quality-of-life features to the GD editor, like typing 
 Mod for exporting GD levels as files!
 
 <img src="https://media.discordapp.net/attachments/822517360706453554/832705873041948743/unknown.png?width=1245&height=701" width="600">
-
 **The [original version](https://github.com/HJfod/gdshare) has been deprecated and should no longer be used.**
