@@ -27,4 +27,5 @@ A mod that adds a ton of quality-of-life features to the GD editor, like typing 
 Mod for exporting GD levels as files!
 
 <img src="https://media.discordapp.net/attachments/822517360706453554/832705873041948743/unknown.png?width=1245&height=701" width="600">
+
 **The [original version](https://github.com/HJfod/gdshare) has been deprecated and should no longer be used.**
