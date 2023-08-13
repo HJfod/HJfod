@@ -2,7 +2,7 @@
 
 ## Welcome to my profile!
 
-I am an 19-year-old hobby developer from Finland, mainly focused on developing add-ons and mods for [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
+I am an 20-year-old hobby developer from Finland, mainly focused on developing add-ons and mods for [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
 [![HJfod's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjfod&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
