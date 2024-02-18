@@ -2,30 +2,20 @@
 
 ## Welcome to my profile!
 
-I am a 20-year-old hobby developer from Finland, mainly focused on developing add-ons and mods for [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
+I am a 20-something-year-old hobby developer from Finland, mainly focused on developing add-ons and mods for [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
 [![HJfod's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjfod&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# My main projects
+### Some Things I Have Done
 
-All of my projects are available for download on [my Modding Discord Server](https://discord.gg/K9Kuh3hzTC)!
+ * Creator of many popular mods like [BetterEdit](https://github.com/HJfod/BetterEdit) and [GDShare](https://github.com/HJfod/GDShare-mod)
+ * Lead developer on [Geode](https://github.com/geode-sdk/geode)
+ * [Blog](https://hjfod.github.io/blog)
 
-## Geode
+### My socials
 
-The most advanced Geometry Dash modding SDK yet.
-
-[Check it out!](https://github.com/geode-sdk)
-
-## BetterEdit
-
-A mod that adds a ton of quality-of-life features to the GD editor, like typing in HSV, advanced scaling, template building, auto-saving etc.
-
-[Check it out!](https://github.com/HJfod/BetterEdit)
-
-## GDShare
-
-Mod for exporting GD levels as files!
-
-<img src="https://media.discordapp.net/attachments/822517360706453554/832705873041948743/unknown.png?width=1245&height=701" width="600">
-
-**The [original version](https://github.com/HJfod/gdshare) has been deprecated and should no longer be used.**
+ * Discord: @hjfod
+ * Twitter: [@hjfod](https://twitter.com/hjfod)
+ * YouTube: [@HJfod](https://youtube.com/@hjfod)
+ * Ko-Fi: [hjfod](https://ko-fi.com/hjfod)
+ * Geometry Dash: HJfod
