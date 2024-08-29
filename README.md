@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/660797754271989760/850821520972578846/logo-imp.jpg?width=701&height=701" width="100"/>
+<img src="https://avatars.githubusercontent.com/Hjfod?width=701&height=701" width="100"/>
 
 ## Welcome to my profile!
 
